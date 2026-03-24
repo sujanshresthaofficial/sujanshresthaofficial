@@ -30,4 +30,4 @@ Ex-Educator | IT Student | Web Developer
 ![](https://github-contributor-stats.vercel.app/api?username=sujanshresthaofficial&limit=5&theme=dark&combine_all_yearly_contributions=true)-->
 
 ---
-[![Visitor Count](https://komarev.com/ghpvc/?username=sujanshresthaofficial&color=000000&style=flat-square&label=PROFILE%20VIEWS)](https://github.com/sujanshresthaofficial)
+[![Visitor Count](https://komarev.com/ghpvc/?username=sujanshresthaofficial&label=VISITOR%20COUNT&color=007ec6&style=for-the-badge&logo=eye)](https://github.com/sujanshresthaofficial)
