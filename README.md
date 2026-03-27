@@ -16,13 +16,13 @@
 
 ### 📊 My GitHub Stats & Activity
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sujanshresthaofficial&layout=compact&hide_border=true&bg_color=151515&title_color=fb4362&text_color=9e9e9e" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sujanshresthaofficial&layout=compact&hide_border=true&bg_color=151515&title_color=fb4362&text_color=9e9e9e&cache=1" width="100%" />
 
 <p align="left">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=sujanshresthaofficial&theme=dark&ring=fb4362&fire=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true" width="49%" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=sujanshresthaofficial&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sujanshresthaofficial&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e&cache=1" width="49%" />
 </p>
 
 <br/>
