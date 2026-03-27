@@ -14,20 +14,18 @@
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=adobepremierepro&logoColor=white)
 
-### 📊 My GitHub Stats & Activity
+### 📊 GitHub Stats & Activity
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sujanshresthaofficial&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sujanshresthaofficial&layout=compact&hide_border=true&bg_color=151515&title_color=fb4362&text_color=9e9e9e)
 
 <p align="left">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=sujanshresthaofficial&theme=dark&ring=fb4362&fire=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true" width="49%" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=sujanshresthaofficial&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e&cache=1" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sujanshresthaofficial&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e&v=2" width="49%" />
 </p>
 
 <br/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-<br/>
