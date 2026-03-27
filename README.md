@@ -16,7 +16,7 @@
 
 ### 📊 GitHub Stats & Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sujanshresthaofficial&layout=compact&hide_border=true&bg_color=151515&title_color=fb4362&text_color=9e9e9e)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sujanshresthaofficial&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <p align="left">
   <a href="https://git.io/streak-stats">
