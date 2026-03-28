@@ -16,13 +16,13 @@
 
 ### 📊 GitHub Stats & Activity
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sujanshresthaofficial&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sujanshresthaofficial&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <p align="left">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=sujanshresthaofficial&theme=dark&ring=fb4362&fire=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true" width="49%" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=sujanshresthaofficial&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e&v=2" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sujanshresthaofficial&hide_border=false&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e&v=2" width="49%" />
 </p>
 
 <br/>
