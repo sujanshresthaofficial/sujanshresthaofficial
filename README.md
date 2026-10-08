@@ -12,10 +12,6 @@
 [![Projects](https://img.shields.io/badge/Projects-Explore-06b6d4?style=for-the-badge&logo=github&logoColor=white)](https://ssujan.com.np/projects.html)
 [![Blog](https://img.shields.io/badge/Blog-Read-f43f5e?style=for-the-badge&logo=rss&logoColor=white)](https://ssujan.com.np/blog.html)
 
-
-<img src="https://komarev.com/ghpvc/?username=sujanshresthaofficial&label=Profile%20views&color=6366f1&style=flat-square" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/sujanshresthaofficial?label=Followers&style=flat-square&color=06b6d4&logo=github" alt="Followers" />
-
 </div>
 
 ---
@@ -46,54 +42,13 @@ Weaving profound thoughts, metaphors and experiences into <strong>written rhymes
   </tr>
 </table>
 
-```text
-🎓  Studying       →  Information Technology (BIT)
-🌱  Currently      →  Building real-world projects, one commit at a time
-🤝  Community      →  Rotaractor, service above self
-🎯  Focus          →  Clean, responsive, accessible web experiences
-📫  Reach me       →  https://ssujan.com.np
-```
-
----
-
-## 🚀 Project Showcase
-
-<table>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://ssujan.com.np">
-        <img src="https://ssujan.com.np/assets/web1.png" alt="Official personal website preview" width="100%"/>
-      </a>
-      <h3>🌍 Official Personal Website</h3>
-      <p>A static website built from scratch: my home for projects, blog and contact.</p>
-      <a href="https://ssujan.com.np"><img src="https://img.shields.io/badge/View%20Project-6366f1?style=flat-square" alt="View Project"/></a>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://sujanshresthaofficial.wordpress.com">
-        <img src="https://ssujan.com.np/assets/web2.png" alt="Poetry and graphics hub preview" width="100%"/>
-      </a>
-      <h3>📝 Poetry &amp; Graphics Hub</h3>
-      <p>My first website, built while exploring WordPress. A space for rhymes and graphics.</p>
-      <a href="https://sujanshresthaofficial.wordpress.com"><img src="https://img.shields.io/badge/View%20Project-21759b?style=flat-square" alt="View Project"/></a>
-    </td>
-  </tr>
-</table>
-
-### 🔨 In the Workshop
-
-| Project                                                                                                    | What it is                                                                        |      Status      |
-| :--------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------- | :--------------: |
-| ☕ [**Palpasa Café, Billing System**](https://github.com/sujanshresthaofficial/palpasa-cafe-billing-system) | A digital system for customer tracking, charge calculation and invoice generation | 🚧 In development |
-| 📚 **Gyankunja, Note Sharing Platform**                                                                     | The ultimate "Notes Hub" for BIT undergraduates *(collab)*                        |  ⏳ Coming soon   |
-| 🐝 **Bee-IT Hive Website**                                                                                  | Built for a website-building competition *(collab)*                               |  ⏳ Coming soon   |
-
 ---
 
 ## 🛠️ Tech & Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,c,java,php,mysql,git,github,vscode,wordpress&theme=dark" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=html,css,js,c,java,php,mysql,git,github,vscode,wordpress,ps,premiere,ai&theme=dark" alt="Tech stack" />
 
 </div>
 
