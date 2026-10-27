@@ -23,27 +23,8 @@ I'm a passionate tech enthusiast pursuing my degree in <strong>Information Techn
 For me, code isn't just about syntax, it's about <strong>building solutions that make an impact</strong>.
 I'm always exploring the ever-expanding horizons of the tech world, turning complex challenges into elegant and digital reality.
 </div>
-<br>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-    <div>
-    <h3>🌐 Web Development</h3>
-Designing modern, responsive experiences with <strong>semantic precision</strong> and <strong>UI/UX synchronization.</strong>
-    </div>
-    </td>
-    <td width="50%" valign="top">
-    <div>
-    <h3>✍️ Creative Expression</h3>
-Weaving profound thoughts, metaphors and experiences into <strong>written rhymes and poetic arts.</strong>
-    </div>
-    </td>
-  </tr>
-</table>
 
 ---
-
 ## 🛠️ Tech & Tools
 
 <div align="center">
